@@ -1,0 +1,6 @@
+[submodule "lib/kbd"]
+	path = lib/kbd
+	url = https://github.com/foostan/kbd.git
+[submodule "lib/KiCad-RP-Pico"]
+	path = lib/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
