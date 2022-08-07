@@ -3104,7 +3104,7 @@
   (symbol (lib_id "mikamo3:Raspberry_Pi_Pico(without_debugPin)") (at 43.18 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d62990f7-f6d3-4d28-a6c5-3edf4b260501)
-    (property "Reference" "U1" (id 0) (at 43.18 17.78 0))
+    (property "Reference" "Pico" (id 0) (at 43.18 17.78 0))
     (property "Value" "Pico" (id 1) (at 43.18 20.32 0))
     (property "Footprint" "mikamo3:raspberry_pi_pico" (id 2) (at 43.18 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -3690,6 +3690,9 @@
     (path "/c86ee58e-c3c7-4f68-9fda-2ef200ed8d64"
       (reference "LED13") (unit 1) (value "YS-SK6812MINI-E") (footprint "mikamo3:YS-SK6812MINI-E")
     )
+    (path "/d62990f7-f6d3-4d28-a6c5-3edf4b260501"
+      (reference "Pico") (unit 1) (value "Pico") (footprint "mikamo3:raspberry_pi_pico")
+    )
     (path "/a4f1aa9d-559e-4977-b38d-408ec59e07b2"
       (reference "SW1") (unit 1) (value "SW_PUSH") (footprint "mikamo3:CherryMX_Hotswap_1u")
     )
@@ -3818,9 +3821,6 @@
     )
     (path "/b39a8298-de1a-4292-ab7e-8946bb64fb5e"
       (reference "SW43") (unit 1) (value "SW_PUSH") (footprint "mikamo3:CherryMX_Hotswap_1.25u")
-    )
-    (path "/d62990f7-f6d3-4d28-a6c5-3edf4b260501"
-      (reference "U1") (unit 1) (value "Pico") (footprint "mikamo3:raspberry_pi_pico")
     )
   )
 )
