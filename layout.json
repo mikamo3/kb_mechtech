@@ -1,4 +1,4 @@
-[{y:1,x:0.5},"Esc","Q","W","E","R","T","Y","U","I","O","P",{w:2},"BackSpace"],
-[{w:1.75},"Ctrl/Tab","A","S","D","F","G","H","J","K","L",":\n;",{w:2.25},"Enter"],
-[{x:0.5,w:1.75},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.",{w:2.25},"Shift"],
-[{x:0.75,w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:2.25},"",{w:2.75},"",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Ctrl"]
+[{y:1,x:0.5},"R1\n\n\n\n\n\n\n\n\nEsc","R2\n\n\n\n\n\n\n\n\nQ","R2\n\n\n\n\n\n\n\n\nW","R2\n\n\n\n\n\n\n\n\nE","R2\n\n\n\n\n\n\n\n\nR","R2\n\n\n\n\n\n\n\n\nT","R2\n\n\n\n\n\n\n\n\nY","R2\n\n\n\n\n\n\n\n\nU","R2\n\n\n\n\n\n\n\n\nI","R2\n\n\n\n\n\n\n\n\nO","R2\n\n\n\n\n\n\n\n\nP",{w:2},"R\n\n\n2U\n\n\n\n\n\nBackSpace"],
+[{w:1.75},"R2\n\n\n1.75U\n\n\n\n\n\nCtrl/Tab","R3\n\n\n\n\n\n\n\n\nA","R3\n\n\n\n\n\n\n\n\nS","R3\n\n\n\n\n\n\n\n\nD","R3\n\n\n\n\n\n\n\n\nF","R3\n\n\n\n\n\n\n\n\nG","R3\n\n\n\n\n\n\n\n\nH","R3\n\n\n\n\n\n\n\n\nJ","R3\n\n\n\n\n\n\n\n\nK","R3\n\n\n\n\n\n\n\n\nL","R3\n\n\n\n\n\n\n\n\n:\n;",{w:2.25},"R2\n\n\n\n\n\n\n\n\nEnter"],
+[{x:0.5,w:1.75},"R4\n\n\n\n\n\n\n\n\nShift","R4\n\n\n\n\n\n\n\n\nZ","R4\n\n\n\n\n\n\n\n\nX","R4\n\n\n\n\n\n\n\n\nC","R4\n\n\n\n\n\n\n\n\nV","R4\n\n\n\n\n\n\n\n\nB","R4\n\n\n\n\n\n\n\n\nN","R4\n\n\n\n\n\n\n\n\nM","R4\n\n\n\n\n\n\n\n\n<\n,","R4\n\n\n\n\n\n\n\n\n>\n.",{w:2.25},"R4\n\n\n\n\n\n\n\n\nShift"],
+[{x:0.75,w:1.25},"R5\n\n\n1.25U\n\n\n\n\n\nCtrl",{w:1.25},"R5\n\n\n1.25U\n\n\n\n\n\nWin",{w:1.25},"R5\n\n\n1.25U\n\n\n\n\n\nAlt",{w:2.25},"R4\n\n\n2.25U",{w:2.75},"R4\n\n\n2.75U",{w:1.25},"R5\n\n\n1.25U\n\n\n\n\n\nCtrl",{w:1.25},"R5\n\n\n1.25U\n\n\n\n\n\nWin",{w:1.25},"R5\n\n\n1.25U\n\n\n\n\n\nAlt"]
